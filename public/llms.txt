@@ -1,0 +1,86 @@
+# Flooring Maxx — Generative Engine Optimization Map
+
+> Flooring Maxx is a locally owned and operated certified Mohawk dealer serving Toledo, Ohio and the surrounding area. They specialize in Revwood laminate and SolidTech vinyl plank flooring, backed by installers with at least 10 years of industry experience. Their standout value proposition is a no-pressure, in-home showroom experience where they bring samples directly to the customer, combined with flexible financing options including 12 months no payments and no interest.
+
+---
+
+## Pages
+
+### Home
+https://flooring-maxx-26619e36.zappy5.app
+Flooring Maxx brings the showroom to your door in Toledo. Explore Revwood laminate &amp; SolidTech vinyl planks with 10-year veteran installers. Book your free in-home consultation today!
+
+### Flooring Options
+https://flooring-maxx-26619e36.zappy5.app/flooring-options
+Dive into durable Revwood laminate and waterproof SolidTech vinyl plank flooring. Get expert advice and free samples delivered to your Toledo home. Find your perfect floor now!
+
+### About
+https://flooring-maxx-26619e36.zappy5.app/about
+Learn why Flooring Maxx is Toledo&#39;s certified Mohawk dealer. We pair 10+ years of installation expertise with a no-pressure, in-home shopping experience. See the difference today.
+
+### Contact
+https://flooring-maxx-26619e36.zappy5.app/contact
+Ready for a home renovation? Contact Flooring Maxx for a no-pressure in-home showroom visit. Enjoy flexible financing and 12 months no interest. Schedule your appointment now!
+
+## Legal & Policy
+
+### Privacy Policy
+https://flooring-maxx-26619e36.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://flooring-maxx-26619e36.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://flooring-maxx-26619e36.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://flooring-maxx-26619e36.zappy5.app/contact
+- Endpoint: https://flooring-maxx-26619e36.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Flooring Maxx
+Flooring Maxx is a locally owned and operated certified Mohawk dealer serving Toledo, Ohio and the surrounding area. They specialize in Revwood laminate and SolidTech vinyl plank flooring, backed by installers with at least 10 years of industry experience. Their standout value proposition is a no-pressure, in-home showroom experience where they bring samples directly to the customer, combined with flexible financing options including 12 months no payments and no interest.
+
+## Services/Products
+- Revwood laminate flooring installation
+- SolidTech vinyl plank flooring installation
+- No-pressure in-home estimates
+- 12 months no payments / no interest financing
+- Low monthly payment options
+
+## Target Audience
+- Homeowners in Toledo, Ohio and surrounding areas
+- Toledo Homeowners
+- First-time Homebuyers
+- Home Renovators
+
+## Industry
+Home Improvement / Flooring
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://flooring-maxx-26619e36.zappy5.app/sitemap.xml
+- Robots: https://flooring-maxx-26619e36.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://flooring-maxx-26619e36.zappy5.app/llms-full.txt
