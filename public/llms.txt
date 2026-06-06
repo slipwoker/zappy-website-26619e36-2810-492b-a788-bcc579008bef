@@ -7,33 +7,33 @@
 ## Pages
 
 ### Home
-https://flooring-maxx-26619e36.zappy5.app
+https://example.com
 Flooring Maxx brings the showroom to your door in Toledo. Explore Revwood laminate &amp; SolidTech vinyl planks with 10-year veteran installers. Book your free in-home consultation today!
 
 ### Flooring Options
-https://flooring-maxx-26619e36.zappy5.app/flooring-options
+https://example.com/flooring-options
 Dive into durable Revwood laminate and waterproof SolidTech vinyl plank flooring. Get expert advice and free samples delivered to your Toledo home. Find your perfect floor now!
 
 ### About
-https://flooring-maxx-26619e36.zappy5.app/about
+https://example.com/about
 Learn why Flooring Maxx is Toledo&#39;s certified Mohawk dealer. We pair 10+ years of installation expertise with a no-pressure, in-home shopping experience. See the difference today.
 
 ### Contact
-https://flooring-maxx-26619e36.zappy5.app/contact
+https://example.com/contact
 Ready for a home renovation? Contact Flooring Maxx for a no-pressure in-home showroom visit. Enjoy flexible financing and 12 months no interest. Schedule your appointment now!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://flooring-maxx-26619e36.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://flooring-maxx-26619e36.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://flooring-maxx-26619e36.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://flooring-maxx-26619e36.zappy5.app/contact
-- Endpoint: https://flooring-maxx-26619e36.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -81,6 +81,6 @@ Home Improvement / Flooring
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://flooring-maxx-26619e36.zappy5.app/sitemap.xml
-- Robots: https://flooring-maxx-26619e36.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://flooring-maxx-26619e36.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
