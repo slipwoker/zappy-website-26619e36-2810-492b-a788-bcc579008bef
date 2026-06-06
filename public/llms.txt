@@ -40,7 +40,7 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Address: 530 Sioux Trail, Rossford, OH, 43460-1530, USA
 
 ### Contact form
 - URL: https://example.com/contact
